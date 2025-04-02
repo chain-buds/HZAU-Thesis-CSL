@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
@@ -6,7 +6,6 @@
     <title-short>HZAUv1</title-short>
     <id>http://www.zotero.org/styles/huazhong-agricultural-university-thesis-v1</id>
     <link rel="self" href="http://www.zotero.org/styles/huazhong-agricultural-university-thesis-v1"/>
-	<link href="https://github.com/chain-buds/HZAU-Undergraduate-Thesis-CSL" rel="github_repo"/>
     <author>
       <name>Shunpeng Bai</name>
       <email>bspchemy@gmail.com</email>
