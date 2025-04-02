@@ -40,7 +40,7 @@
   </macro>
   <macro name="author-short">
     <names variable="author">
-      <name form="short" and="text" et-al-min="2" et-al-use-first="0" et-al-subsequent-min="1" et-al-subsequent-use-first="1" initialize-with="."/>
+      <name form="short" and="text" et-al-min="2" et-al-use-first="0" et-al-subsequent-min="1" et-al-subsequent-use-first="1" initialize-with=""/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>
@@ -107,7 +107,6 @@
   <bibliography hanging-indent="false" et-al-min="1000" et-al-use-first="999">
     <sort>
       <key macro="author"/>
-      <key macro="author-short"/>
     </sort>
     <layout suffix="">
       <group suffix="" delimiter=". ">
