@@ -39,4 +39,6 @@ Recommend to use [**Zen Jinzhe**](https://github.com/njzjz) 's [**wenxian**](htt
 
 #### 方法 2
 1. 参考[CSL 1.0.2文档](https://docs.citationstyles.org/en/stable/specification.html).
-2. 使用Visual Studio Code插件[CSL Preview](https://marketplace.visualstudio.com/items?itemName=igorjrd.cslpreview).
+2. 使用Visual Studio Code插件[CSL Preview](https://marketplace.visualstudio.com/items?itemName=igorjrd.cslpreview).\
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/chain-buds/HZAU-Undergraduate-Thesis-CSL">Huazhong Agricultural University Thesis, v1</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://baishunpeng.top">Shunpeng Bai</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
