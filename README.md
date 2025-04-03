@@ -16,7 +16,7 @@
 ## en
 ### Introduction
 This the repo of Citation Style Language (CSL) File of Huazhong Agricultural University (HZAU) Thesis. Based on the CSE file in this repo.\
-Currently, it is v1 version, only support English journal articles.\
+Currently, it is v0.99 version, only support English journal articles.\
 If you have more requirements, please fork this repo and modify the `huazhong-agricultural-university-thesis-v0.99.csl` file based on this repo.
 
 ### Usage
@@ -25,6 +25,9 @@ Recommend to use [**Zen Jinzhe**](https://github.com/njzjz) 's [**wenxian**](htt
 
 #### Approach 2. Utilize Zotero
 **Edit**-**Settings**-**Cite**-**Style Manager**-**➕**-import `huazhong-agricultural-university-thesis-v0.99.csl` file.
+
+#### Note⚠️
+
 
 ### Development
 #### Approach 1
@@ -38,7 +41,7 @@ Recommend to use [**Zen Jinzhe**](https://github.com/njzjz) 's [**wenxian**](htt
 ## zh
 ### 简介
 该仓库为华中农业大学学位论文的 CSL 文件。基于本仓库中的 CSE 文件。\
-目前为v1版本，仅适配英文期刊论文。\
+目前为v0.99版本，仅适配英文期刊论文。\
 若用户有更多需求欢迎fork本仓库在 `huazhong-agricultural-university-thesis-v0.99.csl` 文件基础上进行修改。
 
 ### 用法
@@ -47,6 +50,9 @@ Recommend to use [**Zen Jinzhe**](https://github.com/njzjz) 's [**wenxian**](htt
 
 #### 方法 2. 使用Zotero
 **编辑**-**设置**-**引用**-**样式管理器下方➕**-导入`huazhong-agricultural-university-thesis-v0.99.csl`文件即可。
+
+#### 注意⚠️
+
 
 ### 开发方法
 #### 方法 1
